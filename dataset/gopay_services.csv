@@ -1,0 +1,21 @@
+service_id,service_name,category
+SVC-001,GoRide,Mobility
+SVC-002,GoCar,Mobility
+SVC-003,GoBluebird,Mobility
+SVC-004,GoFood,Food Delivery
+SVC-005,GoMart,Food Delivery
+SVC-006,GoSend,Logistics
+SVC-007,GoBox,Logistics
+SVC-008,Pulsa/Data,Digital Goods & Bills
+SVC-009,PLN,Digital Goods & Bills
+SVC-010,PDAM,Digital Goods & Bills
+SVC-011,BPJS,Digital Goods & Bills
+SVC-012,Game Voucher,Digital Goods & Bills
+SVC-013,Streaming,Digital Goods & Bills
+SVC-014,Investasi,Digital Goods & Bills
+SVC-015,Merchant Offline A,Offline QRIS
+SVC-016,Merchant Offline B,Offline QRIS
+SVC-017,Merchant Offline C,Offline QRIS
+SVC-018,Merchant Offline D,Offline QRIS
+SVC-019,Merchant Offline E,Offline QRIS
+SVC-020,Merchant Offline F,Offline QRIS

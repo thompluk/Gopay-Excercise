@@ -1,7 +1,14 @@
-PROJECT PLAN
-Validasi Limit yang Gagal?
-- Analisis Risiko Kredit GoPayLater
-Nazma Aulia • Thomas Dani Haryanto • M. Aldi Riansyah | JCDSBSD-34 | 17 September 2026
+Data_Analysis_Peoject_Gopay
+
+(DISCLAIMER)
+Data yang digunakan merupakan Data Dummy untuk latihan. Performing Data Cleaning, Feature Engineering & Exploratory Data Analysis using Python to Generate Business Insight and Create a Profesional Report Presetation
+
+- Validasi Limit yang Gagal? -
+- Analisis Risiko Kredit GoPayLater -
+
+Nazma Aulia • Thomas Dani Haryanto • M. Aldi Riansyah
+| JCDSBSD-34
+| 17 September 2026
 
 1. Konteks & Problem
 GoPayLater — fitur kredit berbasis limit dalam ekosistem GoPay — menunjukkan tren NPL yang meningkat. Temuan kritis: >50% transaksi GoPayLater melebihi paylater_limit user, termasuk dari tier Basic yang seharusnya tidak punya akses PayLater — mengindikasikan bug sistemik pada validasi limit kredit.

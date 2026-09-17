@@ -3,12 +3,15 @@ Data_Analysis_Peoject_Gopay
 (DISCLAIMER)
 Data yang digunakan merupakan Data Dummy untuk latihan. Performing Data Cleaning, Feature Engineering & Exploratory Data Analysis using Python to Generate Business Insight and Create a Profesional Report Presetation
 
-- Validasi Limit yang Gagal? -
-- Analisis Risiko Kredit GoPayLater -
-
 Nazma Aulia • Thomas Dani Haryanto • M. Aldi Riansyah
 | JCDSBSD-34
 | 17 September 2026
+
+
+Validasi Limit yang Gagal? 
+Analisis Risiko Kredit GoPayLater
+
+Penelitian ini berangkat dari premis bahwa keandalan suatu produk kredit digital tidak semata-mata ditentukan oleh kecanggihan algoritma credit scoring-nya, melainkan juga oleh konsistensi implementasi validasi bisnis pada lapisan sistem operasionalnya. Dengan menelaah tiga entitas data utama — profil pengguna, katalog layanan ekosistem, dan jejak transaksi berskala 300.000 baris — studi ini mengidentifikasi anomali multidimensional yang meliputi inkonsistensi taksonomi metode pembayaran, distribusi nilai kredit yang tidak lengkap secara sistematis, serta yang paling kritis: kegagalan validasi batas kredit yang berimplikasi langsung terhadap eksposur risiko finansial dalam skala signifikan. Melalui kerangka metodologis yang menggabungkan pembersihan data berbasis kaidah bisnis, rekayasa fitur prediktif, dan analisis eksploratif multi-perspektif, dokumen ini merumuskan sintesis temuan yang diharapkan dapat menjadi landasan empiris bagi perumusan kebijakan mitigasi risiko kredit yang lebih adaptif dan berbasis data.
 
 1. Konteks & Problem
 GoPayLater — fitur kredit berbasis limit dalam ekosistem GoPay — menunjukkan tren NPL yang meningkat. Temuan kritis: >50% transaksi GoPayLater melebihi paylater_limit user, termasuk dari tier Basic yang seharusnya tidak punya akses PayLater — mengindikasikan bug sistemik pada validasi limit kredit.

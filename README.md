@@ -1,5 +1,6 @@
 PROJECT PLAN
-Validasi Limit yang Gagal? — Analisis Risiko Kredit GoPayLater
+Validasi Limit yang Gagal?
+- Analisis Risiko Kredit GoPayLater
 Nazma Aulia • Thomas Dani Haryanto • M. Aldi Riansyah | JCDSBSD-34 | 17 September 2026
 
 Konteks & Problem

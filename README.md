@@ -1,4 +1,4 @@
-Data_Analysis_Peoject_Gopay
+Data_Analysis_Project_Gopay
 
 (DISCLAIMER)
 Data yang digunakan merupakan Data Dummy untuk latihan. Performing Data Cleaning, Feature Engineering & Exploratory Data Analysis using Python to Generate Business Insight and Create a Profesional Report Presetation
@@ -30,11 +30,16 @@ Tidak termasuk: pembangunan model ML, visualisasi grafis, implementasi perbaikan
 
 4. Jadwal & Pembagian Tugas
 
-Fase 1 — Data & Business Understanding 
+Fase 1 — Data & Business Understanding
+
 Fase 2 — Data Cleaning (missing value, payment_method, late_fee, anomali transaksi, business logic error)
+
 Fase 3 — Feature Engineering (fitur wajib + pilihan)
+
 Fase 4 — Exploratory Data Analysis & Insight
+
 Fase 5 — Export Dataset Final & Presentasi— Seluruh Tim
+
 
 5. Kriteria Keberhasilan
 
